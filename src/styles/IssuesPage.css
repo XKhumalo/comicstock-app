@@ -1,0 +1,27 @@
+
+#logo {
+    color: red
+}
+
+.mainIssue { 
+    word-wrap: break-word; 
+}
+
+.mainIssue h1 {
+    font-weight: bold;
+    text-decoration: underline
+}
+
+.table-borderless td,
+.table-borderless th {
+    border: 0
+}
+
+.centered-button-toolbar {
+    display: flex;
+    justify-content: center
+}
+
+.issueTitle {
+    font-weight: bold;
+}
